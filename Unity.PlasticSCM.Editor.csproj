@@ -184,10 +184,10 @@
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\Views\PendingChanges\FilesFilterPatternsMenuBuilder.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\Developer\UpdateReport\UpdateReportLineListViewItem.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\Configuration\ConfigurePartialWorkspace.cs" />
+    <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\SwitchModeConfirmationDialog.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\UI\ResponseType.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\AssetsUtils\RefreshAsset.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\AssetOverlays\DrawAssetOverlay.cs" />
-    <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\SwitchModeConfirmationDialog.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\Views\ConfirmContinueWithPendingChangesDialog.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\UI\Tree\GetChangesOverlayIcon.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\Views\PendingChanges\PendingChangesMultiColumnHeader.cs" />
@@ -313,8 +313,8 @@
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\Views\PendingChanges\Dialogs\LaunchDependenciesDialog.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\Views\Branch\Dialogs\RenameBranchDialog.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\UI\EditorWindowFocus.cs" />
-    <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\AssetsUtils\Processor\WorkspaceOperationsMonitor.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\UI\MeasureMaxWidth.cs" />
+    <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\AssetsUtils\Processor\WorkspaceOperationsMonitor.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\Views\History\HistoryListHeaderState.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\Views\IncomingChanges\Developer\IncomingChangesViewMenu.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy\Editor\PlasticSCM\AssetsUtils\RepaintInspector.cs" />

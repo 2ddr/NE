@@ -96,8 +96,8 @@
     <Compile Include="Library\PackageCache\com.unity.2d.tilemap\Editor\UI\TilePaletteClipboardButton.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.tilemap\Editor\GridPaintPaletteWindowPreferences.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.tilemap\Editor\UI\TilemapEditorToolButton.cs" />
-    <Compile Include="Library\PackageCache\com.unity.2d.tilemap\Editor\EditorTools\PaintTool.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.tilemap\Editor\UI\TilePaletteMouseCursorUtility.cs" />
+    <Compile Include="Library\PackageCache\com.unity.2d.tilemap\Editor\EditorTools\PaintTool.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.tilemap\Editor\UI\TilePaletteOverlayToolbarElementAttribute.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.tilemap\Editor\UI\TilePaletteClipboardFirstUserElement.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.tilemap\Editor\UI\TilePaletteBrushesDropdownToggle.cs" />

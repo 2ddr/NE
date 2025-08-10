@@ -65,8 +65,8 @@
     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio\Editor\ProjectGeneration\SdkStyleProjectGeneration.cs" />
     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio\Editor\UnityInstallation.cs" />
     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio\Editor\ProjectGeneration\LegacyStyleProjectGeneration.cs" />
-    <Compile Include="Library\PackageCache\com.unity.ide.visualstudio\Editor\Testing\TestStatusAdaptor.cs" />
     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio\Editor\VisualStudioEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.ide.visualstudio\Editor\Testing\TestStatusAdaptor.cs" />
     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio\Editor\Discovery.cs" />
     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio\Editor\Messaging\MessageType.cs" />
     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio\Editor\VisualStudioIntegration.cs" />
