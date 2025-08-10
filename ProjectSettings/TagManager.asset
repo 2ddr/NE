@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Findit
+  - Base
+  - FreeFactory
+  - PlayerFactory
+  - EnemyFactory
+  - Factory
+  - Tank
+  - Bullet
+  - Solid
+  - Bullet Layer
+  - Selector Group
+  - Builder
+  - PlayerCtrl
+  - Effects Layer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - solid
+  - 
+  - units
+  - 
+  - Bullets
+  - 
+  - FogOfWar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2939710447
+    locked: 0
+  - name: Ground
+    uniqueID: 2634762709
+    locked: 0
+  - name: Units
+    uniqueID: 1916133883
+    locked: 0
+  - name: Buildings
+    uniqueID: 2732892541
+    locked: 0
+  - name: Bullets
+    uniqueID: 989108101
+    locked: 0
+  - name: Buildings Top
+    uniqueID: 509630755
+    locked: 0
+  - name: Flying
+    uniqueID: 3432680549
+    locked: 0
+  - name: Effects
+    uniqueID: 4220181969
+    locked: 0
+  - name: FogOfWar
+    uniqueID: 2507388853
+    locked: 0

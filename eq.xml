@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2009 (http://www.altova.com) by V (EMBRACE) -->
+<next>
+	<wn factory="GUN" weapons="X"/>
+	<wn factory="ROTOR"/>
+	<wn factory="GAUSS"/>
+	<wn factory="EM MISSILES"/>
+	<wn factory="RADAR" electronic="X"/>
+</next>
